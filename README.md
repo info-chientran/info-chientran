@@ -2,5 +2,5 @@
 - 👀 I’m interested in ... Web Dev
 - 🌱 I’m currently learning ... Html, Css, Javascript, Reactjs
 - 💞️ I’m looking to collaborate on ... Web Dev
-- 📫 How to reach me ... [Email](info.chientran@gmail.com}
+- 📫 How to reach me ... <a href="https://www.facebook.com/info.chientran" target="_blank">
 
