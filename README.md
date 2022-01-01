@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Chien Tran
-- 👀 I’m interested in ... Web Dev
-- 🌱 I’m currently learning ... Html, Css, Javascript, ReactJS
-- 💞️ I’m looking to collaborate on ... Web Dev
-- 📫 How to reach me ... mailto: info.chientran@gmail.com
+👋 Hi there
+
+I'm Chien Tran from VietNamese.
