@@ -1,4 +1,4 @@
-![I'm Chien from VietNamese](https://github.com/info-chientran/profile/blob/main/src/assets/images/Facebook%20cover.png?raw=true)
+![I'm Chien from VietNamese](https://github.com/info-chientran/profile/blob/main/facebook-cover.png?raw=true)
 
 # Chien Tran
 I'm Chien from VietNamese.
