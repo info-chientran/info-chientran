@@ -1,9 +1,9 @@
 # Chien Tran
-I'm Chien from Viet Nam.
+I'm frontend developer.
 
 ## Skills: 
 * 💻 HTML, CSS(SCSS), Javascript, Typescript, Java
-* 📓 ReactJs, Tailwind, Bootstrap
+* 📓 React, NextJs, Tailwind, Bootstrap
 * 📓 NodeJs, Spring Boot
 * 💡 Git, Figma, Linux
 
