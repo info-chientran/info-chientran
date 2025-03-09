@@ -7,11 +7,6 @@
 
 ### 👨‍💻 About Me (Chooi) :
 I'm Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
-- :telescope: I’m working as a Software Engineer.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on <a href="https://dev.to" target="_blank">dev.to</a> and read tech articles.
 
 ---
 
