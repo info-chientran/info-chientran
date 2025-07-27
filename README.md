@@ -1,14 +1,12 @@
 <div align = "center">
   <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, 
+    I'm Chien Tran
   </h1>
+
+  <p>Frontend Developer</p>
 </div>
-
-### 👨‍💻 About Me (Chooi) :
-I'm Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
-
----
 
 ### 🧰 Languages and Tools :
 <div>
